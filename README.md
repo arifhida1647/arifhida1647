@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Full-Stack Developer Path**
 
-- 👨‍💻 All of my projects are available at [https://darilpratomo.github.io/](https://github.com/arifhida1647)
+- 👨‍💻 All of my projects are available at [https://github.com/arifhida1647](https://github.com/arifhida1647)
 
-- 💬 Ask me about **Website and UI Design**
+- 💬 Ask me about **Website Design**
 
-- 📫 How to reach me **darilprtmsr@gmail.com**
+- 📫 How to reach me **arifhida1647@gmail.com**
 
 - ⚡ Fun fact **I Love Gaming and Coding**
 <hr/>
