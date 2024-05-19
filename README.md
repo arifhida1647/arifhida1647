@@ -3,7 +3,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Daril+Pratomo+Sriramdanu!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arif+Hidayat!;" />
 </h1>
 <h3 align="center">Full-Stack Developer</h3>
 
@@ -44,5 +44,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darilpratomo&theme=dark" alt="darilpratomo" /></p>
 <hr/>
 
-<p><a href="https://www.buymeacoffee.com/darilprtm"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="darilprtm" /></a></p>
-<a href="https://ko-fi.com/darilprtm"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="darilprtm" /></a></p><br><br>
