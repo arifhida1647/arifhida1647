@@ -1,46 +1,38 @@
+<h3>Hi, I'm Arif Hidayat
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h3>
 
-<img align="center" alt="Coding" width="1000" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=1080&crop=smart&auto=webp&s=79e43e61455bc523307e1ba9284a4afaaae951c5">
+# 💫 About Me:
+🔭 I’m currently studying at UPN "Veteran" Jakarta<br>🌱 I’m currently learning React, Typescript<br>💬 Ask me about Web, Back-End, and Automation System<br>📫 How to reach me: arifhida1647@gmail.com<br>⚡ Fun fact: Hard carry in-game
 
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Arif+Hidayat!;" />
-</h1>
-<h3 align="center">Tech Enthusiast</h3>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arifhida1647&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arifhida1647&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darilpratomo&label=Profile%20views&color=0e75b6&style=flat" alt="darilpratomo" /> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=daffaYuharshu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently studying on **Universitas Pembangunan Nasional Veteran Jakarta**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-- 🌱 I’m currently learning **Full-Stack Developer Path**
 
-- 👨‍💻 All of my projects are available at [https://github.com/arifhida1647](https://github.com/arifhida1647)
+<!-- I’m currently learning on Universitas Pembangunan Nasional "Veteran" Jakarta.
+I'm Informatics student
+-->
 
-- 💬 Ask me about **Website Design**
+<!--
+**arifhida1647/arifhida1647** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-- 📫 How to reach me **arifhida1647@gmail.com**
+Here are some ideas to get you started:
 
-- ⚡ Fun fact **I Love Gaming and Coding**
-<hr/>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="www.linkedin.com/in/arif-hidayat-332825184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darilpratomo/" height="30" width="40" /></a>
-</p>
-<hr/>
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,androidstudio,aws,bootstrap,c,cpp,css,discord,docker,express,firebase,flask,tailwind" />
-    <img src="https://skillicons.dev/icons?i=gcp,git,github,html,java,js,kotlin,kubernetes,mysql,nginx,nextjs,nodejs,wordpress" />
-    <img src="https://skillicons.dev/icons?i=notion,npm,php,postman,py,rabbitmq,react,replit,tensorflow,terraform,ts,ubuntu,vercel" /><br>
-</div>
-
-<br/>
-<hr/>
-<h3 align="center">Support:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darilpratomo&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="darilpratomo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darilpratomo&show_icons=true&theme=dark&locale=en" alt="darilpratomo" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darilpratomo&theme=dark" alt="darilpratomo" /></p>
-<hr/>
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
